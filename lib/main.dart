@@ -1,3 +1,4 @@
+import 'package:deathform/Exemption_Form.dart';
 import 'package:flutter/material.dart';
 
 import 'Death_Form.dart';
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-            home:  DeathForm(),
+            home:  ExemptionForm(),
     );
   }
 }

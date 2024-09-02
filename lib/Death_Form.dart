@@ -55,7 +55,7 @@ class _DeathFormState extends State<DeathForm> {
           elevation: 0,
           backgroundColor: CBColors.lightGreenBackground,
           title: Text(
-            'Birth Certificate',
+            'Death Certificate',
             style: TextStyle(
               fontFamily: 'SourceSansPro',
               color: CBColors.darkGreen,
